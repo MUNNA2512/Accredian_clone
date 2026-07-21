@@ -8,7 +8,7 @@ A high-fidelity responsive clone of [enterprise.accredian.com](https://enterpris
 
 ## 🚀 Live Demo
 
-> Deploy to Vercel (see [Deployment](#deployment) section below)
+> https://accredian-clone-mauve.vercel.app/
 
 ---
 
